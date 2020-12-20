@@ -1,10 +1,10 @@
 {
-  "name": "black-kit",
-  "description": "Bootstrap 4 Black Design",
+  "name": "Young-Lord-SKS",
+  "description": "Young Lord SKS Website",
   "version": "1.0.1",
-  "homepage": "http://creative-tim.com/product/blk-design-system",
-  "author": "Creative Tim",
-  "license": "Creative Tim License <www.creative-tim.com/license>",
+  "homepage": "http://www.younglordsks.com,
+  "author": "Young Lord SKS",
+  "license": "Young Lords Haus <www.younglords.haus/license>",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.1.0",
